@@ -61,6 +61,6 @@ It provides an excellent test bed for evaluating how well LLMs can reason in the
 
 ## 🧪 Disclaimer
 
-This project is for *experimental purposes only**.  
+This project is for **experimental purposes only**.  
 The fine-tuned model is **not intended for real medical advice or clinical use**.
 

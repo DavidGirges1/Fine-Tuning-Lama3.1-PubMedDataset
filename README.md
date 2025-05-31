@@ -59,14 +59,6 @@ It provides an excellent test bed for evaluating how well LLMs can reason in the
 
 ---
 
-## 📈 Next Steps (Optional Ideas)
-
-- Evaluate accuracy of the fine-tuned model on biomedical QA benchmarks  
-- Extend dataset with BioASQ or MedQA for multi-turn or open-ended tasks  
-- Wrap the model into a simple Streamlit app for testing and demo
-
----
-
 ## 🧪 Disclaimer
 
 This project is for *experimental purposes only**.  

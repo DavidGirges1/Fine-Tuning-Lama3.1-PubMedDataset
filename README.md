@@ -51,14 +51,12 @@ It provides an excellent test bed for evaluating how well LLMs can reason in the
 - 📘 [PubMedQA Dataset on Hugging Face](https://huggingface.co/datasets/pubmed_qa)  
 - 🐑 [Unsloth – Efficient LLaMA Fine-Tuning Library](https://github.com/unslothai/unsloth)  
 - 📄 *Fine-Tuning LLaMA 3.1 Instruct Template (from GEMINI 2.5 Pro)*  
-  *(Placeholder — replace with actual link if available)*
 
 ---
 
 ## 👨‍💻 Crafted By
 
 **David E. Girges**  
-> A curious developer exploring the adaptation of foundation models to high-stakes, domain-specific tasks.
 
 ---
 

@@ -13,6 +13,13 @@ The ultimate goal: leverage a powerful LLM for accurate, domain-specific medical
 
 ---
 
+## 📚 Key Resources
+
+- 📘 [PubMedQA Dataset on Hugging Face](https://huggingface.co/datasets/pubmed_qa)  
+- 🐑 [Unsloth – Efficient LLaMA Fine-Tuning Library](https://github.com/unslothai/unsloth)  
+- 📄 *Fine-Tuning Lama 3.1 Instruct Template (from GEMINI 2.5 Pro)*  
+
+---
 ## 🚀 Training Method: LoRA Fine-Tuning
 
 The fine-tuning approach used is **LoRA**, a parameter-efficient technique that enables adapting large models with minimal training cost. Instead of retraining all model parameters, LoRA injects trainable low-rank matrices into the transformer layers.
@@ -43,14 +50,6 @@ It provides an excellent test bed for evaluating how well LLMs can reason in the
 - ⚙️ **Efficient Training**: Uses LoRA for memory-efficient fine-tuning  
 - 🔎 **Exploratory Scope**: A hands-on dive into the real-world process of adapting LLMs to local data  
 - 🧰 **Ecosystem Integration**: Combines Hugging Face datasets, Unsloth, and instruction-tuning methods  
-
----
-
-## 📚 Key Resources
-
-- 📘 [PubMedQA Dataset on Hugging Face](https://huggingface.co/datasets/pubmed_qa)  
-- 🐑 [Unsloth – Efficient LLaMA Fine-Tuning Library](https://github.com/unslothai/unsloth)  
-- 📄 *Fine-Tuning LLaMA 3.1 Instruct Template (from GEMINI 2.5 Pro)*  
 
 ---
 
